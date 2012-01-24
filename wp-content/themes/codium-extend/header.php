@@ -1,6 +1,6 @@
 <?php $themeroot = get_template_directory_uri(); ?>
 <?php 
-//echo $_SERVER['SERVER_NAME']; 
+//echo $_SERVER['HTTP_HOST']; 
 $host = $_SERVER['HTTP_HOST'];
 $sub = explode('.',$host);
 $sublen = count($sub);
