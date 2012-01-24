@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frontend Edit Profile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-15 01:25+0700\n"
+"PO-Revision-Date: 2010-11-15 01:26+0700\n"
+"Last-Translator: Abdul Ibad <ibad@dulabs.com>\n"
+"Language-Team: dulabs <dev@dulabs.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fep.php:144
+msgid "General Settings"
+msgstr ""
+
+#: fep.php:150
+msgid "Override CSS file"
+msgstr ""
+
+#: fep.php:154
+msgid "Not Logged in Text"
+msgstr ""
+
+#: fep.php:158
+msgid "Show Biographical Info"
+msgstr ""
+
+#: fep.php:164
+msgid "Save Changes"
+msgstr ""
+
+#: fep.php:273
+msgid "Name"
+msgstr ""
+
+#: fep.php:277
+#: fep.php:533
+msgid "Username"
+msgstr ""
+
+#: fep.php:278
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: fep.php:281
+msgid "First Name"
+msgstr ""
+
+#: fep.php:286
+msgid "Last Name"
+msgstr ""
+
+#: fep.php:291
+msgid "Nickname"
+msgstr ""
+
+#: fep.php:291
+#: fep.php:330
+msgid "(required)"
+msgstr ""
+
+#: fep.php:296
+msgid "Display to Public as"
+msgstr ""
+
+#: fep.php:326
+msgid "Contact Info"
+msgstr ""
+
+#: fep.php:330
+msgid "E-mail"
+msgstr ""
+
+#: fep.php:343
+msgid "Website"
+msgstr ""
+
+#: fep.php:369
+msgid "About Yourself"
+msgstr ""
+
+#: fep.php:379
+msgid "Biographical Info"
+msgstr ""
+
+#: fep.php:381
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr ""
+
+#: fep.php:392
+msgid "New Password"
+msgstr ""
+
+#: fep.php:392
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr ""
+
+#: fep.php:395
+msgid "Type your new password again."
+msgstr ""
+
+#: fep.php:398
+msgid "Strength indicator"
+msgstr ""
+
+#: fep.php:403
+msgid "The password should be at least seven characters long."
+msgstr ""
+
+#: fep.php:404
+msgid "To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ &amp; )."
+msgstr ""
+
+#: fep.php:420
+msgid "Additional Capabilities"
+msgstr ""
+
+#: fep.php:439
+msgid "Update Profile"
+msgstr ""
+
+#: fep.php:535
+msgid "Password"
+msgstr ""
+
+#: fep.php:537
+msgid "Logged me in"
+msgstr ""
+
+#: fep.php:540
+msgid "Remember me"
+msgstr ""
+
