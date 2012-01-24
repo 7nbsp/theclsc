@@ -1,7 +1,7 @@
 <?php $themeroot = get_template_directory_uri(); ?>
 <?php 
 //echo $_SERVER['SERVER_NAME']; 
-$host = $_SERVER['SERVER_NAME'];
+$host = $_SERVER['HTTP_HOST'];
 $sub = explode('.',$host);
 $sublen = count($sub);
 if($sublen > 2){
